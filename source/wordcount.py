@@ -2,7 +2,7 @@ import sys
 
 DELIMITERS = ". , ; : ? $ @ ^ < > # % ` ! * - = ( ) [ ] { } / \" '".split()
 
-
+# Adding a comment to test
 def load_text(filename):
     """
     Load lines from a plain-text file and return these as a list, with
